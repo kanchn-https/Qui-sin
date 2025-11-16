@@ -11,4 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kanchn-https/Qui-sin/tree/master/0024-swap-nodes-in-pairs) |
+## Array
+|  |
+| ------- |
+| [0135-candy](https://github.com/kanchn-https/Qui-sin/tree/master/0135-candy) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/kanchn-https/Qui-sin/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
