@@ -8,14 +8,17 @@
  */
 class Solution {
 public:
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB){
         ListNode *p=headA;
-        ListNode *q=headB;
-        while(p!=q) {
-            if(p==NULL) p=headB;
-            else p=p->next;
-            if(q==NULL) q=headA;
-            else q=q->next;
-        }return q;
+        map<ListNode*,int> mpp;
+        int i=0;
+        while(p) {
+            mpp[p]++;
+            p=p->next;
+        }ListNode *q=headB;
+        while(q) {
+            if(mpp[q]>0) return q;
+            q=q->next;
+        }return NULL;
     }
 };
