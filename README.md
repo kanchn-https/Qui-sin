@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kanchn-https/Qui-sin/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/kanchn-https/Qui-sin/tree/master/0135-candy) |
 ## Greedy
 |  |
@@ -41,4 +42,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/kanchn-https/Qui-sin/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
