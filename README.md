@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kanchn-https/Qui-sin/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/kanchn-https/Qui-sin/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -80,4 +81,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/kanchn-https/Qui-sin/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanchn-https/Qui-sin/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kanchn-https/Qui-sin/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kanchn-https/Qui-sin/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
