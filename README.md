@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/kanchn-https/Qui-sin/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/kanchn-https/Qui-sin/tree/master/0135-candy) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kanchn-https/Qui-sin/tree/master/0215-kth-largest-element-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/kanchn-https/Qui-sin/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanchn-https/Qui-sin/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
@@ -94,4 +95,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kanchn-https/Qui-sin/tree/master/0225-implement-stack-using-queues) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kanchn-https/Qui-sin/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kanchn-https/Qui-sin/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kanchn-https/Qui-sin/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kanchn-https/Qui-sin/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
