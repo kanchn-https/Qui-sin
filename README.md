@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/kanchn-https/Qui-sin/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/kanchn-https/Qui-sin/tree/master/0735-asteroid-collision) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanchn-https/Qui-sin/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2104-sum-of-subarray-ranges](https://github.com/kanchn-https/Qui-sin/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/kanchn-https/Qui-sin/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kanchn-https/Qui-sin/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/kanchn-https/Qui-sin/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/kanchn-https/Qui-sin/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kanchn-https/Qui-sin/tree/master/0496-next-greater-element-i) |
+| [2104-sum-of-subarray-ranges](https://github.com/kanchn-https/Qui-sin/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
