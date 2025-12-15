@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/kanchn-https/Qui-sin/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/kanchn-https/Qui-sin/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/kanchn-https/Qui-sin/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kanchn-https/Qui-sin/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/kanchn-https/Qui-sin/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/kanchn-https/Qui-sin/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kanchn-https/Qui-sin/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/kanchn-https/Qui-sin/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/kanchn-https/Qui-sin/tree/master/2104-sum-of-subarray-ranges) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanchn-https/Qui-sin/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kanchn-https/Qui-sin/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
+| [0402-remove-k-digits](https://github.com/kanchn-https/Qui-sin/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanchn-https/Qui-sin/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
@@ -123,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/kanchn-https/Qui-sin/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kanchn-https/Qui-sin/tree/master/0496-next-greater-element-i) |
 | [2104-sum-of-subarray-ranges](https://github.com/kanchn-https/Qui-sin/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
