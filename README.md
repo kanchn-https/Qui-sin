@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/kanchn-https/Qui-sin/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/kanchn-https/Qui-sin/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/kanchn-https/Qui-sin/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanchn-https/Qui-sin/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kanchn-https/Qui-sin/tree/master/0496-next-greater-element-i) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kanchn-https/Qui-sin/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/kanchn-https/Qui-sin/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kanchn-https/Qui-sin/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/kanchn-https/Qui-sin/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/kanchn-https/Qui-sin/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/kanchn-https/Qui-sin/tree/master/0402-remove-k-digits) |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/kanchn-https/Qui-sin/tree/master/0085-maximal-rectangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kanchn-https/Qui-sin/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/kanchn-https/Qui-sin/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kanchn-https/Qui-sin/tree/master/0496-next-greater-element-i) |
 | [2104-sum-of-subarray-ranges](https://github.com/kanchn-https/Qui-sin/tree/master/2104-sum-of-subarray-ranges) |
