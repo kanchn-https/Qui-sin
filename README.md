@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kanchn-https/Qui-sin/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanchn-https/Qui-sin/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kanchn-https/Qui-sin/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/kanchn-https/Qui-sin/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/kanchn-https/Qui-sin/tree/master/0402-remove-k-digits) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanchn-https/Qui-sin/tree/master/0094-binary-tree-inorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -138,4 +140,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kanchn-https/Qui-sin/tree/master/0735-asteroid-collision) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanchn-https/Qui-sin/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanchn-https/Qui-sin/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
