@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kanchn-https/Qui-sin/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/kanchn-https/Qui-sin/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kanchn-https/Qui-sin/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/kanchn-https/Qui-sin/tree/master/0135-candy) |
@@ -162,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kanchn-https/Qui-sin/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kanchn-https/Qui-sin/tree/master/0199-binary-tree-right-side-view) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/kanchn-https/Qui-sin/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
