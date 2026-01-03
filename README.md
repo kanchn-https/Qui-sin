@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/kanchn-https/Qui-sin/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/kanchn-https/Qui-sin/tree/master/0085-maximal-rectangle) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kanchn-https/Qui-sin/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Hash Table
 |  |
 | ------- |
