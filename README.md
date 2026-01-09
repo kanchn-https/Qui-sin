@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/kanchn-https/Qui-sin/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kanchn-https/Qui-sin/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/kanchn-https/Qui-sin/tree/master/0496-next-greater-element-i) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanchn-https/Qui-sin/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanchn-https/Qui-sin/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/kanchn-https/Qui-sin/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanchn-https/Qui-sin/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kanchn-https/Qui-sin/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanchn-https/Qui-sin/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanchn-https/Qui-sin/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Matrix
 |  |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanchn-https/Qui-sin/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kanchn-https/Qui-sin/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kanchn-https/Qui-sin/tree/master/0700-search-in-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanchn-https/Qui-sin/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanchn-https/Qui-sin/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
@@ -169,12 +172,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanchn-https/Qui-sin/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kanchn-https/Qui-sin/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kanchn-https/Qui-sin/tree/master/0700-search-in-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanchn-https/Qui-sin/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanchn-https/Qui-sin/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kanchn-https/Qui-sin/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kanchn-https/Qui-sin/tree/master/0199-binary-tree-right-side-view) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanchn-https/Qui-sin/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Math
 |  |
 | ------- |
