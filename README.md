@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanchn-https/Qui-sin/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1975-maximum-matrix-sum](https://github.com/kanchn-https/Qui-sin/tree/master/1975-maximum-matrix-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/kanchn-https/Qui-sin/tree/master/2104-sum-of-subarray-ranges) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/kanchn-https/Qui-sin/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanchn-https/Qui-sin/tree/master/0215-kth-largest-element-in-an-array) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/kanchn-https/Qui-sin/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
