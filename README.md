@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/kanchn-https/Qui-sin/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kanchn-https/Qui-sin/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/kanchn-https/Qui-sin/tree/master/0735-asteroid-collision) |
+| [0896-monotonic-array](https://github.com/kanchn-https/Qui-sin/tree/master/0896-monotonic-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kanchn-https/Qui-sin/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanchn-https/Qui-sin/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1975-maximum-matrix-sum](https://github.com/kanchn-https/Qui-sin/tree/master/1975-maximum-matrix-sum) |
