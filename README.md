@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/kanchn-https/Qui-sin/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/kanchn-https/Qui-sin/tree/master/0735-asteroid-collision) |
 | [0896-monotonic-array](https://github.com/kanchn-https/Qui-sin/tree/master/0896-monotonic-array) |
+| [0994-rotting-oranges](https://github.com/kanchn-https/Qui-sin/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kanchn-https/Qui-sin/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanchn-https/Qui-sin/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1975-maximum-matrix-sum](https://github.com/kanchn-https/Qui-sin/tree/master/1975-maximum-matrix-sum) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kanchn-https/Qui-sin/tree/master/0085-maximal-rectangle) |
+| [0994-rotting-oranges](https://github.com/kanchn-https/Qui-sin/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kanchn-https/Qui-sin/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1975-maximum-matrix-sum](https://github.com/kanchn-https/Qui-sin/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/kanchn-https/Qui-sin/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kanchn-https/Qui-sin/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanchn-https/Qui-sin/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/kanchn-https/Qui-sin/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
 | ------- |
