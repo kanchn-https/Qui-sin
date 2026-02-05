@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-maximum-matrix-sum](https://github.com/kanchn-https/Qui-sin/tree/master/1975-maximum-matrix-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/kanchn-https/Qui-sin/tree/master/2104-sum-of-subarray-ranges) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kanchn-https/Qui-sin/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3379-transformed-array](https://github.com/kanchn-https/Qui-sin/tree/master/3379-transformed-array) |
 ## Greedy
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kanchn-https/Qui-sin/tree/master/0735-asteroid-collision) |
+| [3379-transformed-array](https://github.com/kanchn-https/Qui-sin/tree/master/3379-transformed-array) |
 ## Tree
 |  |
 | ------- |
