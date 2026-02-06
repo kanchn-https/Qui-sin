@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2104-sum-of-subarray-ranges](https://github.com/kanchn-https/Qui-sin/tree/master/2104-sum-of-subarray-ranges) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kanchn-https/Qui-sin/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3379-transformed-array](https://github.com/kanchn-https/Qui-sin/tree/master/3379-transformed-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/kanchn-https/Qui-sin/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/kanchn-https/Qui-sin/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanchn-https/Qui-sin/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanchn-https/Qui-sin/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3634-minimum-removals-to-balance-array](https://github.com/kanchn-https/Qui-sin/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanchn-https/Qui-sin/tree/master/0215-kth-largest-element-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kanchn-https/Qui-sin/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3634-minimum-removals-to-balance-array](https://github.com/kanchn-https/Qui-sin/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
