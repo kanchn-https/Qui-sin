@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/kanchn-https/Qui-sin/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/kanchn-https/Qui-sin/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kanchn-https/Qui-sin/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/kanchn-https/Qui-sin/tree/master/0799-champagne-tower) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kanchn-https/Qui-sin/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Hash Table
 |  |
