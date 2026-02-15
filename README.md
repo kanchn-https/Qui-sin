@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanchn-https/Qui-sin/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/kanchn-https/Qui-sin/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/kanchn-https/Qui-sin/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kanchn-https/Qui-sin/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/kanchn-https/Qui-sin/tree/master/0402-remove-k-digits) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kanchn-https/Qui-sin/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/kanchn-https/Qui-sin/tree/master/0735-asteroid-collision) |
 | [3379-transformed-array](https://github.com/kanchn-https/Qui-sin/tree/master/3379-transformed-array) |
 ## Tree
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kanchn-https/Qui-sin/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kanchn-https/Qui-sin/tree/master/0067-add-binary) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -218,4 +221,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/kanchn-https/Qui-sin/tree/master/3719-longest-balanced-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kanchn-https/Qui-sin/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
