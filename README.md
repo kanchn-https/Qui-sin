@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/kanchn-https/Qui-sin/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanchn-https/Qui-sin/tree/master/0215-kth-largest-element-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/kanchn-https/Qui-sin/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
@@ -225,4 +226,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kanchn-https/Qui-sin/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/kanchn-https/Qui-sin/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
